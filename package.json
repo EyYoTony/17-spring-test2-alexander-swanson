@@ -1,0 +1,22 @@
+{
+  "name": "17-spring-test2-alexander-swanson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyYoTony/17-spring-test2-alexander-swanson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EyYoTony/17-spring-test2-alexander-swanson/issues"
+  },
+  "homepage": "https://github.com/EyYoTony/17-spring-test2-alexander-swanson#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
